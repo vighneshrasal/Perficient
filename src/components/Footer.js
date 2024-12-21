@@ -10,7 +10,7 @@ export const Footer = () => {
             <a href="#" className="hover:underline me-4 md:me-6">Facebook</a>
           </li>
           <li>
-            <a href="#" className="hover:underline me-4 md:me-6">name@gmail.com</a>
+            <a href="mailto:perficient6262@gmail.com" className="hover:underline me-4 md:me-6">perficient6262@gmail.com</a>
           </li>
         </ul>
       </div>
