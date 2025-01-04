@@ -31,14 +31,14 @@ export const About = () => {
           <div>
             <li><NavLink to="/3dconceptdevelopment"><u>3D Concept Development</u></NavLink></li><br />
             <li><NavLink to="/rendering"><u>3D Renderings</u></NavLink></li><br />
-            <li><a href=""><u>Structural Reactions and Analysis Report</u></a></li><br />
-            <li><a href=""><u>Steel General Arrangement Drawing </u></a></li><br />
+            <li><NavLink to="/structuralanalysis"><u>Structural Analysis and Reaction Report</u></NavLink></li><br />
+            <li><NavLink to="/steelarrangement"><u>Steel General Arrangement Drawing </u></NavLink></li><br />
           </div>
 
           <div>
-            <li><a href=""><u>Steel Fabrication Drawing</u></a></li><br />
-            <li><a href=""><u>Fabric Form finding, Pattering & Nesting</u></a></li><br />
-            <li><a href=""><u>Fabric Accessories and Quantity list</u></a></li>
+            <li><NavLink to="/steelfabrication"><u>Steel Fabrication Drawing</u></NavLink></li><br />
+            <li><NavLink to="/fabricform"><u>Fabric Form finding, Pattering & Nesting</u></NavLink></li><br />
+            <li><NavLink to="/fabricaccessory"><u>Fabric Accessories and Quantity list</u></NavLink></li>
           </div>
         </ul>
       </div>

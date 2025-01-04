@@ -1,4 +1,3 @@
-import React from 'react';
 import threedimage from '../assets/images/3dconceptdevelopment.png'
 
 export const ConceptDevelopment = () => {

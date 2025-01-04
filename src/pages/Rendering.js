@@ -1,4 +1,3 @@
-import React from 'react';
 import threedrendering from '../assets/images/3drendering.png'
 
 export const Rendering = () => {

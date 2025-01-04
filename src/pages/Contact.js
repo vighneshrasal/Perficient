@@ -1,5 +1,7 @@
 import fblogo from "../assets/logos/facebook.png";
 import instalogo from "../assets/logos/instagram.png";
+import email from "../assets/logos/message.png";
+import contact from "../assets/logos/viber.png";
 
 export const Contact = () => {
   return (
@@ -7,18 +9,19 @@ export const Contact = () => {
       <div>
         <h1 className="text-2xl text-center">Connect With Us</h1>
       </div>
-      
+
       <div className="flex justify-evenly items-center">
         <div>
-          <div>
-            <span>email - </span>
-            <a href="mailto:perficient6262@gmail.com" className="hover:underline me-4 md:me-6">perficient6262@gmail.com</a>
+          <div className="flex">
+            <a href="mailto:perficient6262@gmail.com"><img className="max-w-10" src={email} alt="fblogo" /></a>
+            <a href="mailto:perficient6262@gmail.com" className="pt-2 pl-2"><span>perficient6262@gmail.com</span></a>
           </div>
 
           <br />
 
-          <div>
-            <span>Contact - 9892127608</span>
+          <div className="flex">
+            <a href=""><img className="max-w-10" src={contact} alt="fblogo" /></a>
+            <a href="" className="pt-2 pl-2"><span>9892127608</span></a>
           </div>
 
           <br />
