@@ -1,9 +1,10 @@
+import { NavLink } from "react-router-dom";
 import homepic from "../assets/images/home page main image.png";
 
 export const About = () => {
   return (
-    <main className="">
-      <div className="no-scrollbar">
+    <main>
+      <div>
         <h1 className="text-2xl">What we do</h1>
 
         <br />
@@ -19,7 +20,28 @@ export const About = () => {
 
       <br />
 
-      
+      <div className="mt-10">
+        <h1 className="text-2xl">Services we offer</h1>
+      </div>
+
+      <br />
+
+      <div>
+        <ul className="flex justify-between">
+          <div>
+            <li><NavLink to="/3dconceptdevelopment"><u>3D Concept Development</u></NavLink></li><br />
+            <li><NavLink to="/rendering"><u>3D Renderings</u></NavLink></li><br />
+            <li><a href=""><u>Structural Reactions and Analysis Report</u></a></li><br />
+            <li><a href=""><u>Steel General Arrangement Drawing </u></a></li><br />
+          </div>
+
+          <div>
+            <li><a href=""><u>Steel Fabrication Drawing</u></a></li><br />
+            <li><a href=""><u>Fabric Form finding, Pattering & Nesting</u></a></li><br />
+            <li><a href=""><u>Fabric Accessories and Quantity list</u></a></li>
+          </div>
+        </ul>
+      </div>
     </main>
   )
 }
