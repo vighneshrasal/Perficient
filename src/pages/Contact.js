@@ -10,7 +10,7 @@ export const Contact = () => {
         <h1 className="text-2xl text-center">Connect With Us</h1>
       </div>
 
-      <div className="flex justify-evenly items-center">
+      <div className="md:flex justify-evenly items-center">
         <div>
           <div className="flex">
             <a href="mailto:perficient6262@gmail.com"><img className="max-w-10" src={email} alt="fblogo" /></a>
@@ -37,7 +37,7 @@ export const Contact = () => {
           </div>
         </div>
 
-        <div className="max-w-80">
+        <div className="max-w-80 md:pt-8">
           <p className="italic">"We're dedicated to your project's success. Offering support through phone consultations, site visits, and meetings, we ensure seamless coordination from start to finish, making sure every detail is taken care of until the project is completed and handed over."</p>
         </div>
       </div>

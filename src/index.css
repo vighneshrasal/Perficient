@@ -12,6 +12,15 @@ main{
     margin-top: 8vh;
     margin-bottom: 8vh;
     min-height: 70vh;
+    background-color: #e3e1dc;
+}
+
+nav{
+    background-color: #e3e1dc; 
+}
+
+.bgcolor{
+    background-color: #e3e1dc;
 }
 
 *{
@@ -28,4 +37,8 @@ h1{
 
 #home-image, nav{
     box-shadow: 0px 0px 10px black;
+}
+
+footer{
+    box-shadow: 0px 0px 5px black; 
 }
