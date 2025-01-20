@@ -13,15 +13,15 @@ export const Contact = () => {
       <div className="md:flex justify-evenly items-center">
         <div>
           <div className="flex">
-            <a href="mailto:perficient6262@gmail.com"><img className="max-w-10" src={email} alt="fblogo" /></a>
+            <a href="mailto:perficient6262@gmail.com"><img className="max-w-10" src={email} alt="email" /></a>
             <a href="mailto:perficient6262@gmail.com" className="pt-2 pl-2"><span>perficient6262@gmail.com</span></a>
           </div>
 
           <br />
 
           <div className="flex">
-            <a href=""><img className="max-w-10" src={contact} alt="fblogo" /></a>
-            <a href="" className="pt-2 pl-2"><span>9892127608</span></a>
+            <img className="max-w-10" src={contact} alt="contact" />
+            <span className="pt-2 pl-2">9892127608</span>
           </div>
 
           <br />
@@ -32,7 +32,7 @@ export const Contact = () => {
           </div>
           <br />
           <div className="flex">
-            <a href=""><img className="max-w-10" src={instalogo} alt="fblogo" /></a>
+            <a href=""><img className="max-w-10" src={instalogo} alt="instalogo" /></a>
             <a href="" className="pt-2 pl-2"><span>Perficient Patterns & Cast</span></a>
           </div>
         </div>
