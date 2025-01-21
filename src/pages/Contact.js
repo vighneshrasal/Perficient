@@ -13,8 +13,8 @@ export const Contact = () => {
       <div className="md:flex justify-evenly items-center">
         <div>
           <div className="flex">
-            <a href="mailto:perficient6262@gmail.com"><img className="max-w-10" src={email} alt="email" /></a>
-            <a href="mailto:perficient6262@gmail.com" className="pt-2 pl-2"><span>perficient6262@gmail.com</span></a>
+            <a href="mailto:gkenterprises0119@gmail.com"><img className="max-w-10" src={email} alt="email" /></a>
+            <a href="mailto:gkenterprises0119@gmail.com" className="pt-2 pl-2"><span>gkenterprises0119@gmail.com</span></a>
           </div>
 
           <br />
@@ -27,13 +27,13 @@ export const Contact = () => {
           <br />
 
           <div className="flex">
-            <a href=""><img className="max-w-10" src={fblogo} alt="fblogo" /></a>
-            <a href="" className="pt-2 pl-2"><span>Perficient Creations</span></a>
+            <a href="https://www.bing.com/search?q=facebook&filters=ufn%3a%22Facebook%22+sid%3a%224bc8f781-7083-d1a0-f781-9466e0eb62e7%22&asbe=SS&qs=MB&pq=face&sc=8-4&cvid=C36E9813C52F410D99A9FF091D824F16&FORM=QBRE&sp=1&ghc=1&lq=0"><img className="max-w-10" src={fblogo} alt="fblogo" /></a>
+            <a href="https://www.bing.com/search?q=facebook&filters=ufn%3a%22Facebook%22+sid%3a%224bc8f781-7083-d1a0-f781-9466e0eb62e7%22&asbe=SS&qs=MB&pq=face&sc=8-4&cvid=C36E9813C52F410D99A9FF091D824F16&FORM=QBRE&sp=1&ghc=1&lq=0" className="pt-2 pl-2"><span>Perficient Creations</span></a>
           </div>
           <br />
           <div className="flex">
-            <a href=""><img className="max-w-10" src={instalogo} alt="instalogo" /></a>
-            <a href="" className="pt-2 pl-2"><span>Perficient Patterns & Cast</span></a>
+            <a href="https://www.bing.com/search?q=instagram&filters=ufn%3a%22Instagram%22+sid%3a%22a2113d26-7976-df57-241f-77b7bbb1b4f7%22&asbe=HS&qs=MB&pq=inst&sc=8-4&cvid=7BCEF1863CB14765B9DC86BDAFC7AE72&FORM=QBRE&sp=1&ghc=1&lq=0"><img className="max-w-10" src={instalogo} alt="instalogo" /></a>
+            <a href="https://www.bing.com/search?q=instagram&filters=ufn%3a%22Instagram%22+sid%3a%22a2113d26-7976-df57-241f-77b7bbb1b4f7%22&asbe=HS&qs=MB&pq=inst&sc=8-4&cvid=7BCEF1863CB14765B9DC86BDAFC7AE72&FORM=QBRE&sp=1&ghc=1&lq=0" className="pt-2 pl-2"><span>Perficient Patterns & Cast</span></a>
           </div>
         </div>
 
