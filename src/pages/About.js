@@ -9,7 +9,7 @@ export const About = () => {
 
         <br />
 
-        <p className="text-justify">At Perficient Patterns & Cast , we specialize in bringing visions to life through Tensile Architecture design. From concept to fabrication, our team offers complete consultancy services, utilizing cutting-edge software and adhering to industry standards. Our mission is to craft atmospheres that reflect the essence of each property, employing advanced 3D modeling and creative expertise. With a flexible approach, we welcome captivating projects from across the globe.</p>
+        <p className="text-justify">At Guru Krupa, we specialize in bringing visions to life through Tensile Architecture design. From concept to fabrication, our team offers complete consultancy services, utilizing cutting-edge software and adhering to industry standards. Our mission is to craft atmospheres that reflect the essence of each property, employing advanced 3D modeling and creative expertise. With a flexible approach, we welcome captivating projects from across the globe.</p>
       </div>
 
       <br />
