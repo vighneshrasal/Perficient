@@ -27,13 +27,13 @@ export const Contact = () => {
           <br />
 
           <div className="flex">
-            <a href="https://www.facebook.com/profile.php?id=61556533447920&rdid=058wXbjNwsKGD2ts&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CShQidw5N%2F#"><img className="max-w-10" src={fblogo} alt="fblogo" /></a>
-            <a href="https://www.facebook.com/profile.php?id=61556533447920&rdid=058wXbjNwsKGD2ts&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CShQidw5N%2F#" className="pt-2 pl-2"><span>GK Enterprises</span></a>
+            <a href="https://www.facebook.com/profile.php?id=61556533447920&rdid=058wXbjNwsKGD2ts&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CShQidw5N%2F#" target="_blank"><img className="max-w-10" src={fblogo} alt="fblogo" /></a>
+            <a href="https://www.facebook.com/profile.php?id=61556533447920&rdid=058wXbjNwsKGD2ts&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CShQidw5N%2F#" className="pt-2 pl-2" target="_blank"><span>GK Enterprises</span></a>
           </div>
           <br />
           <div className="flex">
-            <a href="https://www.bing.com/search?q=instagram&filters=ufn%3a%22Instagram%22+sid%3a%22a2113d26-7976-df57-241f-77b7bbb1b4f7%22&asbe=HS&qs=MB&pq=inst&sc=8-4&cvid=7BCEF1863CB14765B9DC86BDAFC7AE72&FORM=QBRE&sp=1&ghc=1&lq=0"><img className="max-w-10" src={instalogo} alt="instalogo" /></a>
-            <a href="https://www.bing.com/search?q=instagram&filters=ufn%3a%22Instagram%22+sid%3a%22a2113d26-7976-df57-241f-77b7bbb1b4f7%22&asbe=HS&qs=MB&pq=inst&sc=8-4&cvid=7BCEF1863CB14765B9DC86BDAFC7AE72&FORM=QBRE&sp=1&ghc=1&lq=0" className="pt-2 pl-2"><span>GK Enterprises</span></a>
+            <a href="https://www.bing.com/search?q=instagram&filters=ufn%3a%22Instagram%22+sid%3a%22a2113d26-7976-df57-241f-77b7bbb1b4f7%22&asbe=HS&qs=MB&pq=inst&sc=8-4&cvid=7BCEF1863CB14765B9DC86BDAFC7AE72&FORM=QBRE&sp=1&ghc=1&lq=0" target="_blank"><img className="max-w-10" src={instalogo} alt="instalogo" /></a>
+            <a href="https://www.bing.com/search?q=instagram&filters=ufn%3a%22Instagram%22+sid%3a%22a2113d26-7976-df57-241f-77b7bbb1b4f7%22&asbe=HS&qs=MB&pq=inst&sc=8-4&cvid=7BCEF1863CB14765B9DC86BDAFC7AE72&FORM=QBRE&sp=1&ghc=1&lq=0" className="pt-2 pl-2" target="_blank"><span>GK Enterprises</span></a>
           </div>
         </div>
 
